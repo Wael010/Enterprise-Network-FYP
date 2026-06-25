@@ -14,6 +14,16 @@ The network spans two branches connected over a WAN, with centralized security e
 
 ---
 
+## Network Topology Diagrams
+
+### Cisco Packet Tracer — Full Enterprise Design
+![Cisco Topology](cisco-topology.png)
+
+### GNS3 — Attack Simulation Environment
+![GNS3 Topology](gns3-topology.png)
+
+---
+
 ## Network Architecture
 
 ### Branch 1 (Headquarters)
